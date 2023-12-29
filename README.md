@@ -1,4 +1,14 @@
-<h1 align="center">Hi, I am Zain Amin 👋 </h1>
-  <a align="center" href="https://www.linkedin.com/in/zainamin43/">
-    <img align="center" src="https://media.licdn.com/dms/image/D4D03AQETCjBo7A8bKw/profile-displayphoto-shrink_200_200/0/1695198665486?e=1703116800&v=beta&t=VEKk3VHREICbsesFvJdxyIHT6g2Xdo8iFFSWf2BJ15o" alt="LinkedIn">
-  </a>
+# Hi, I'm Zain Amin! 👋
+
+I'm a Backend Developer specializing in PHP/Laravel, currently based in Karachi. Welcome to my GitHub profile!
+
+## About Me
+
+- 🔭 I'm currently working on [Koyal CMS](https://github.com/zainamin43/Koyal-CMS).
+- 🌱 I'm passionate about backend development and exploring new technologies.
+- 💬 Ask me about PHP, Laravel, or anything related to backend development.
+- 📫 How to reach me: [Email](mailto:zainamin43@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zainamin43/)
+
+## My GitHub Stats
+
+![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainamin43&show_icons=true&theme=radical)
